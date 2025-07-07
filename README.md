@@ -5,11 +5,6 @@
 ![Data Mining](https://img.shields.io/badge/Data%20Mining-Project-green)
 ![IEEE](https://img.shields.io/badge/IEEE-Published-blue)
 
-This project was developed during the Data Mining course at the [Department of Computer Science](https://chennai.vit.ac.in/) at [Vellore Institute of Technology](https://chennai.vit.ac.in/) under the supervision of Dr. Kavitha Dhanushkodi
-
-# Publication
-This project has been published and is available on IEEE Xplore: [Customer Behavior Analysis and Predictive Modeling in Supermarket Retail](https://ieeexplore.ieee.org/document/10542125)
-
 This repository contains a comprehensive data mining approach for analyzing customer behavior and building predictive models within the supermarket retail domain. The goal is to leverage advanced data analytics techniques to optimize business strategies and enhance profitability.
 
 ## Table of Contents
@@ -24,7 +19,7 @@ This repository contains a comprehensive data mining approach for analyzing cust
 - [Limitations](#limitations)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
